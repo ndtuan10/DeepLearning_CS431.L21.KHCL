@@ -11,4 +11,4 @@ Nội dung bài tập, đồ án của môn Deep Learning (Các vấn đề và 
 - [Baitap6: Sentiment-Analysis_LSTM+FoodyReview](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/tree/main/BaiTap/BaiTap6_Sentiment-Analysis_LSTM%2BFoodyReview)
 
 ## Đồ án
-- [Double Exposure](https://github.com/trannguyen1510/DoubleExposure?fbclid=IwAR3kFlrmBSclQhvKw0Z45Z4ju10N-JXMmXsN9hUO-_WvX3-CHFSkW9GZqgw)
+- [Double Exposure](https://github.com/ndtuan10/DoubleExposure)

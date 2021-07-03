@@ -9,6 +9,7 @@ Contents of exercises and projects of Deep Learning (Các vấn đề và ứng 
 - [Baitap4: Food_classification_MobileNetV2+Food-11](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/blob/main/BaiTap/BaiTap4_CNN_MobileNetV2%2BFood_11.ipynb)
 - [Baitap5: Word2Vec_CBOW+Fastext](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/tree/main/BaiTap/BaiTap5_Word2Vec-With-Pretrained-Model)
 - [Baitap6: Sentiment-Analysis_LSTM+FoodyReview](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/tree/main/BaiTap/BaiTap6_Sentiment-Analysis_LSTM%2BFoodyReview)
+- [Baitap7: Neural-Machine-Translation+Vie-Eng-dataset](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/tree/main/BaiTap/BaiTap7_Neural_Machine_Translation%2BVie-Eng_dataset)
 
 ## Project
 - [Double Exposure](https://github.com/ndtuan10/DoubleExposure)

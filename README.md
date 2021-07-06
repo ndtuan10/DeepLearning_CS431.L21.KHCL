@@ -11,5 +11,14 @@ Contents of exercises and projects of Deep Learning (Các vấn đề và ứng 
 - [Baitap6: Sentiment-Analysis_LSTM+FoodyReview](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/tree/main/BaiTap/BaiTap6_Sentiment-Analysis_LSTM%2BFoodyReview)
 - [Baitap7: Neural-Machine-Translation+Vie-Eng-dataset](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/tree/main/BaiTap/BaiTap7_Neural_Machine_Translation%2BVie-Eng_dataset)
 
-## Project
-- [Double Exposure](https://github.com/ndtuan10/DoubleExposure)
+## Project: Double Exposure
+- [About source code](https://github.com/ndtuan10/DoubleExposure)
+- [About detailed annotation markdown](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/blob/main/DoAn/Double%20Exposure/project.md)
+- [About MODNet architecture](https://github.com/ZHKKKe/MODNet)
+
+TÊN THÀNH VIÊN |MSSV| Github |
+--- | --- | ---
+Ngô Đức Tuấn | 18520186 | https://github.com/ndtuan10
+Lê Hoàng Long | 18521027 | https://github.com/HoangLong1907
+Trần Nguyễn Thanh Nguyên | 18521168 | https://github.com/trannguyen1510
+

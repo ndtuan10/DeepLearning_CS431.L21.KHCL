@@ -22,3 +22,6 @@ Ngô Đức Tuấn | 18520186 | https://github.com/ndtuan10
 Lê Hoàng Long | 18521027 | https://github.com/HoangLong1907
 Trần Nguyễn Thanh Nguyên | 18521168 | https://github.com/trannguyen1510
 
+## Summarizing Deep Learning knowledge
+- To synthesize the knowledge in the process of studying Deep Learning, I have compiled 12 questions that are both my review questions and share my Deep Learning experience with you. You can find it here.
+https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL/tree/main/T%E1%BB%95ng%20h%E1%BB%A3p%20ki%E1%BA%BFn%20th%E1%BB%A9c

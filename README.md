@@ -1,5 +1,7 @@
 # DeepLearning-CS431.L21.KHCL
 
+ ![uitlogo](https://portal.uit.edu.vn/Styles/profi/images/logo186x150.png)
+
 Contents of exercises and projects of Deep Learning (Các vấn đề và ứng dụng của học sâu) - CS431
 
  ## Process
